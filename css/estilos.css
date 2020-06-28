@@ -34,7 +34,6 @@ body{
     padding: 1em;
 }
 
-<<<<<<< HEAD
 #logo img{
     width: 20px;
     height: 20px;
@@ -43,11 +42,11 @@ body{
 #cabecera #logo{
     width: 20px;
     vertical-align: middle;
-=======
+}
+
 #footer{
     background: #777;
     color: white;
     text-align: center;
     padding: 0.5em;
->>>>>>> footer
 }
