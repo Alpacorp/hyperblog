@@ -5,6 +5,7 @@ body{
     margin: 0;
     padding: 0;
     font-size: 16px;
+    background: gray;
 }
 #container{
     width: 70%;
@@ -12,15 +13,17 @@ body{
     text-align: left;
     border: 1px solid #DDDD;
     margin: 0 auto;
+    background: #ffffff;
 }
 
 #cabecera{
-    background-color: #33A;
+    background: #33a url("/imagenes/dragon.png") no-repeat center center;
     color: white;
     font-weight: bold;
     box-shadow: 0px 2px 15px 0px rgba(0, 0, 0, 0.75);
     margin: 0;
-    padding: 1em;
+    padding: 1em 0 0.5em 2em;
+    display: flex;
 }
 
 #container h1{
@@ -29,4 +32,14 @@ body{
 
 #post{
     padding: 1em;
+}
+
+#logo img{
+    width: 20px;
+    height: 20px;
+}
+
+#cabecera #logo{
+    width: 20px;
+    vertical-align: middle;
 }
