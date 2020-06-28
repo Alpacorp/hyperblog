@@ -1,4 +1,4 @@
-Esta es la historia de Alejandro Palacios
+﻿Esta es la historia de Alejandro Palacios
 
 Alejandro tiene 31 años y nació en Colombia,
 viviendo en todo el mundo
@@ -6,3 +6,5 @@ viviendo en todo el mundo
 Hoy hablaremos de su historia y de su vida y obra de labor.
 
 Alejandro Palacios Arevalo Soacha
+
+Pacho es el nuevo usuario integrado al proyecto
