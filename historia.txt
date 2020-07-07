@@ -3,7 +3,7 @@
 Alejandro tiene 31 años y nació en Colombia,
 viviendo en todo el mundo
 
-Hoy hablaremos de su historia y de su vida y obra de labor.
+Editando en el curso de git y github desde el servidor
 
 Alejandro Palacios Arevalo Soacha
 
