@@ -8,3 +8,6 @@ Editando en el curso de git y github desde el servidor
 Alejandro Palacios Arevalo Soacha
 
 Pacho es el nuevo usuario integrado al proyecto
+
+Master 1
+
